@@ -1,0 +1,2365 @@
+/* ==========================================================================
+   F O N T S
+   ========================================================================== */
+
+
+/* -- Eklips -- */
+
+
+
+@font-face {
+	font-family: "Eklips Thin";
+	 src: url("../wp-content/uploads/Eklips-Thin.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.eklips-thin {
+	font-family: "Eklips Thin";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Eklips Light";
+	 src: url("../wp-content/uploads/Eklips-Light.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.eklips-light {
+	font-family: "Eklips Light";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Eklips Regular";
+	 src: url("../wp-content/uploads/Eklips-Regular.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.eklips-regular {
+	font-family: "Eklips Regular";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Eklips Medium";
+	 src: url("../wp-content/uploads/Eklips-Medium.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.eklips-medium {
+	font-family: "Eklips Medium";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Eklips SemiBold";
+	 src: url("../wp-content/uploads/Eklips-SemiBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.eklips-semibold {
+	font-family: "Eklips SemiBold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Eklips Bold";
+	 src: url("../wp-content/uploads/Eklips-Bold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.eklips-bold {
+	font-family: "Eklips Bold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Eklips ExtraBold";
+	 src: url("../wp-content/uploads/Eklips-ExtraBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.eklips-extrabold {
+	font-family: "Eklips ExtraBold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Eklips Black";
+	 src: url("../wp-content/uploads/Eklips-Black.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.eklips-black {
+	font-family: "Eklips Black";
+	font-weight: ;
+}
+
+
+/* -- Swedish Gothic -- */
+
+
+
+@font-face {
+	font-family: "Swedish Gothic Thin";
+	 src: url("../wp-content/uploads/SwedishGothic-Thin.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.swedish-gothic-thin {
+	font-family: "Swedish Gothic Thin";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Swedish Gothic Thin Italic";
+	 src: url("../wp-content/uploads/SwedishGothic-ThinItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.swedish-gothic-thin-italic {
+	font-family: "Swedish Gothic Thin Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Swedish Gothic Light";
+	 src: url("../wp-content/uploads/SwedishGothic-Light.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.swedish-gothic-light {
+	font-family: "Swedish Gothic Light";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Swedish Gothic Light Italic";
+	 src: url("../wp-content/uploads/SwedishGothic-LightItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.swedish-gothic-light-italic {
+	font-family: "Swedish Gothic Light Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Swedish Gothic Regular";
+	 src: url("../wp-content/uploads/SwedishGothic-Regular.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.swedish-gothic-regular {
+	font-family: "Swedish Gothic Regular";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Swedish Gothic Regular Italic";
+	 src: url("../wp-content/uploads/SwedishGothic-RegularItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.swedish-gothic-regular-italic {
+	font-family: "Swedish Gothic Regular Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Swedish Gothic Medium";
+	 src: url("../wp-content/uploads/SwedishGothic-Medium.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.swedish-gothic-medium {
+	font-family: "Swedish Gothic Medium";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Swedish Gothic Medium Italic";
+	 src: url("../wp-content/uploads/SwedishGothic-MediumItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.swedish-gothic-medium-italic {
+	font-family: "Swedish Gothic Medium Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Swedish Gothic SemiBold";
+	 src: url("../wp-content/uploads/SwedishGothic-SemiBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.swedish-gothic-semibold {
+	font-family: "Swedish Gothic SemiBold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Swedish Gothic SemiBold Italic";
+	 src: url("../wp-content/uploads/SwedishGothic-SemiBoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.swedish-gothic-semibold-italic {
+	font-family: "Swedish Gothic SemiBold Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Swedish Gothic Bold";
+	 src: url("../wp-content/uploads/SwedishGothic-Bold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.swedish-gothic-bold {
+	font-family: "Swedish Gothic Bold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Swedish Gothic Bold Italic";
+	 src: url("../wp-content/uploads/SwedishGothic-BoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.swedish-gothic-bold-italic {
+	font-family: "Swedish Gothic Bold Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Swedish Gothic Black";
+	 src: url("../wp-content/uploads/SwedishGothic-Black.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.swedish-gothic-black {
+	font-family: "Swedish Gothic Black";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Swedish Gothic Black Italic";
+	 src: url("../wp-content/uploads/SwedishGothic-BlackItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.swedish-gothic-black-italic {
+	font-family: "Swedish Gothic Black Italic";
+	font-weight: ;
+}
+
+
+/* -- Ivar Display Condensed -- */
+
+
+
+@font-face {
+	font-family: "Ivar Display Condensed Light";
+	 src: url("../wp-content/uploads/IvarDisplayCondensed-Light.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-display-condensed-light {
+	font-family: "Ivar Display Condensed Light";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Display Condensed Regular";
+	 src: url("../wp-content/uploads/IvarDisplayCondensed-Regular.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-display-condensed-regular {
+	font-family: "Ivar Display Condensed Regular";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Display Condensed Medium";
+	 src: url("../wp-content/uploads/IvarDisplayCondensed-Medium.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-display-condensed-medium {
+	font-family: "Ivar Display Condensed Medium";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Display Condensed SemiBold";
+	 src: url("../wp-content/uploads/IvarDisplayCondensed-SemiBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-display-condensed-semibold {
+	font-family: "Ivar Display Condensed SemiBold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Display Condensed Bold";
+	 src: url("../wp-content/uploads/IvarDisplayCondensed-Bold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-display-condensed-bold {
+	font-family: "Ivar Display Condensed Bold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Display Condensed ExtraBold";
+	 src: url("../wp-content/uploads/IvarDisplayCondensed-ExtraBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-display-condensed-extrabold {
+	font-family: "Ivar Display Condensed ExtraBold";
+	font-weight: ;
+}
+
+
+/* -- Gothia Sans -- */
+
+
+
+@font-face {
+	font-family: "Gothia Sans Light";
+	 src: url("../wp-content/uploads/GothiaSans-Light.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-sans-light {
+	font-family: "Gothia Sans Light";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Sans Light Italic";
+	 src: url("../wp-content/uploads/GothiaSans-LightItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-sans-light-italic {
+	font-family: "Gothia Sans Light Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Sans Regular";
+	 src: url("../wp-content/uploads/GothiaSans-Regular.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-sans-regular {
+	font-family: "Gothia Sans Regular";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Sans Regular Italic";
+	 src: url("../wp-content/uploads/GothiaSans-RegularItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-sans-regular-italic {
+	font-family: "Gothia Sans Regular Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Sans Book";
+	 src: url("../wp-content/uploads/GothiaSans-Book.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-sans-book {
+	font-family: "Gothia Sans Book";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Sans Book Italic";
+	 src: url("../wp-content/uploads/GothiaSans-BookItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-sans-book-italic {
+	font-family: "Gothia Sans Book Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Sans Medium";
+	 src: url("../wp-content/uploads/GothiaSans-Medium.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-sans-medium {
+	font-family: "Gothia Sans Medium";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Sans Medium Italic";
+	 src: url("../wp-content/uploads/GothiaSans-MediumItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-sans-medium-italic {
+	font-family: "Gothia Sans Medium Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Sans SemiBold";
+	 src: url("../wp-content/uploads/GothiaSans-SemiBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-sans-semibold {
+	font-family: "Gothia Sans SemiBold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Sans SemiBold Italic";
+	 src: url("../wp-content/uploads/GothiaSans-SemiBoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-sans-semibold-italic {
+	font-family: "Gothia Sans SemiBold Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Sans Bold";
+	 src: url("../wp-content/uploads/GothiaSans-Bold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-sans-bold {
+	font-family: "Gothia Sans Bold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Sans Bold Italic";
+	 src: url("../wp-content/uploads/GothiaSans-BoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-sans-bold-italic {
+	font-family: "Gothia Sans Bold Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Sans ExtraBold";
+	 src: url("../wp-content/uploads/GothiaSans-ExtraBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-sans-extrabold {
+	font-family: "Gothia Sans ExtraBold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Sans ExtraBold Italic";
+	 src: url("../wp-content/uploads/GothiaSans-ExtraBoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-sans-extrabold-italic {
+	font-family: "Gothia Sans ExtraBold Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Sans Black";
+	 src: url("../wp-content/uploads/GothiaSans-Black.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-sans-black {
+	font-family: "Gothia Sans Black";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Sans Black Italic";
+	 src: url("../wp-content/uploads/GothiaSans-BlackItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-sans-black-italic {
+	font-family: "Gothia Sans Black Italic";
+	font-weight: ;
+}
+
+
+/* -- Gothia Serif -- */
+
+
+
+@font-face {
+	font-family: "Gothia Serif Light";
+	 src: url("../wp-content/uploads/GothiaSerif-Light.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-serif-light {
+	font-family: "Gothia Serif Light";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Serif Light Italic";
+	 src: url("../wp-content/uploads/GothiaSerif-LightItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-serif-light-italic {
+	font-family: "Gothia Serif Light Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Serif Regular";
+	 src: url("../wp-content/uploads/GothiaSerif-Regular.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-serif-regular {
+	font-family: "Gothia Serif Regular";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Serif Regular Italic";
+	 src: url("../wp-content/uploads/GothiaSerif-RegularItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-serif-regular-italic {
+	font-family: "Gothia Serif Regular Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Serif Book";
+	 src: url("../wp-content/uploads/GothiaSerif-Book.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-serif-book {
+	font-family: "Gothia Serif Book";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Serif Book Italic";
+	 src: url("../wp-content/uploads/GothiaSerif-BookItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-serif-book-italic {
+	font-family: "Gothia Serif Book Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Serif Medium";
+	 src: url("../wp-content/uploads/GothiaSerif-Medium.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-serif-medium {
+	font-family: "Gothia Serif Medium";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Serif Medium Italic";
+	 src: url("../wp-content/uploads/GothiaSerif-MediumItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-serif-medium-italic {
+	font-family: "Gothia Serif Medium Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Serif SemiBold";
+	 src: url("../wp-content/uploads/GothiaSerif-SemiBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-serif-semibold {
+	font-family: "Gothia Serif SemiBold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Serif SemiBold Italic";
+	 src: url("../wp-content/uploads/GothiaSerif-SemiBoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-serif-semibold-italic {
+	font-family: "Gothia Serif SemiBold Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Serif Bold";
+	 src: url("../wp-content/uploads/GothiaSerif-Bold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-serif-bold {
+	font-family: "Gothia Serif Bold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Serif Bold Italic";
+	 src: url("../wp-content/uploads/GothiaSerif-BoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-serif-bold-italic {
+	font-family: "Gothia Serif Bold Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Serif ExtraBold";
+	 src: url("../wp-content/uploads/GothiaSerif-ExtraBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-serif-extrabold {
+	font-family: "Gothia Serif ExtraBold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Serif ExtraBold Italic";
+	 src: url("../wp-content/uploads/GothiaSerif-ExtraBoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-serif-extrabold-italic {
+	font-family: "Gothia Serif ExtraBold Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Serif Black";
+	 src: url("../wp-content/uploads/GothiaSerif-Black.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-serif-black {
+	font-family: "Gothia Serif Black";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Gothia Serif Black Italic";
+	 src: url("../wp-content/uploads/GothiaSerif-BlackItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.gothia-serif-black-italic {
+	font-family: "Gothia Serif Black Italic";
+	font-weight: ;
+}
+
+
+/* -- Brace -- */
+
+
+
+@font-face {
+	font-family: "Brace Thin";
+	 src: url("../wp-content/uploads/Brace-Thin.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.brace-thin {
+	font-family: "Brace Thin";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Brace Light";
+	 src: url("../wp-content/uploads/Brace-Light.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.brace-light {
+	font-family: "Brace Light";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Brace Regular";
+	 src: url("../wp-content/uploads/Brace-Regular.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.brace-regular {
+	font-family: "Brace Regular";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Brace Medium";
+	 src: url("../wp-content/uploads/Brace-Medium.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.brace-medium {
+	font-family: "Brace Medium";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Brace SemiBold";
+	 src: url("../wp-content/uploads/Brace-SemiBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.brace-semibold {
+	font-family: "Brace SemiBold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Brace Bold";
+	 src: url("../wp-content/uploads/Brace-Bold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.brace-bold {
+	font-family: "Brace Bold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Brace ExtraBold";
+	 src: url("../wp-content/uploads/Brace-ExtraBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.brace-extrabold {
+	font-family: "Brace ExtraBold";
+	font-weight: ;
+}
+
+
+/* -- Sväng -- */
+
+
+
+@font-face {
+	font-family: "Sväng Light";
+	 src: url("../wp-content/uploads/Svang-Light.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.sväng-light {
+	font-family: "Sväng Light";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Sväng Regular";
+	 src: url("../wp-content/uploads/Svang-Regular.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.sväng-regular {
+	font-family: "Sväng Regular";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Sväng Medium";
+	 src: url("../wp-content/uploads/Svang-Medium.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.sväng-medium {
+	font-family: "Sväng Medium";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Sväng Bold";
+	 src: url("../wp-content/uploads/Svang-Bold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.sväng-bold {
+	font-family: "Sväng Bold";
+	font-weight: ;
+}
+
+
+/* -- Ivar Soft -- */
+
+
+
+@font-face {
+	font-family: "Ivar Soft Regular";
+	 src: url("../wp-content/uploads/IvarSoft-Regular.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-soft-regular {
+	font-family: "Ivar Soft Regular";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Soft Italic";
+	 src: url("../wp-content/uploads/IvarSoft-Italic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-soft-italic {
+	font-family: "Ivar Soft Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Soft Medium";
+	 src: url("../wp-content/uploads/IvarSoft-Medium.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-soft-medium {
+	font-family: "Ivar Soft Medium";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Soft Medium Italic";
+	 src: url("../wp-content/uploads/IvarSoft-MediumItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-soft-medium-italic {
+	font-family: "Ivar Soft Medium Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Soft SemiBold";
+	 src: url("../wp-content/uploads/IvarSoft-SemiBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-soft-semibold {
+	font-family: "Ivar Soft SemiBold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Soft SemiBold Italic";
+	 src: url("../wp-content/uploads/IvarSoft-SemiBoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-soft-semibold-italic {
+	font-family: "Ivar Soft SemiBold Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Soft Bold";
+	 src: url("../wp-content/uploads/IvarSoft-Bold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-soft-bold {
+	font-family: "Ivar Soft Bold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Soft Bold Italic";
+	 src: url("../wp-content/uploads/IvarSoft-BoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-soft-bold-italic {
+	font-family: "Ivar Soft Bold Italic";
+	font-weight: ;
+}
+
+
+/* -- VOIR -- */
+
+
+
+@font-face {
+	font-family: "VOIR 4";
+	 src: url("../wp-content/uploads/VOIR-4.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.voir-4 {
+	font-family: "VOIR 4";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "VOIR 6";
+	 src: url("../wp-content/uploads/VOIR-6.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.voir-6 {
+	font-family: "VOIR 6";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "VOIR 10";
+	 src: url("../wp-content/uploads/VOIR-10.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.voir-10 {
+	font-family: "VOIR 10";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "VOIR 16";
+	 src: url("../wp-content/uploads/VOIR-16.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.voir-16 {
+	font-family: "VOIR 16";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "VOIR 22";
+	 src: url("../wp-content/uploads/VOIR-22.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.voir-22 {
+	font-family: "VOIR 22";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "VOIR 36";
+	 src: url("../wp-content/uploads/VOIR-36.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.voir-36 {
+	font-family: "VOIR 36";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "VOIR 48";
+	 src: url("../wp-content/uploads/VOIR-48.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.voir-48 {
+	font-family: "VOIR 48";
+	font-weight: ;
+}
+
+
+/* -- Blåkulla -- */
+
+
+
+@font-face {
+	font-family: "Blåkulla Regular";
+	 src: url("../wp-content/uploads/Blakulla-Regular.woff") format("woff");
+		font-weight: Normal;
+	font-style: normal;
+}
+.blåkulla-regular {
+	font-family: "Blåkulla Regular";
+	font-weight: Normal;
+}
+
+
+/* -- Trim Stencil -- */
+
+
+
+@font-face {
+	font-family: "Trim Stencil ExtraBold";
+	 src: url("../wp-content/uploads/TrimStencil-ExtraBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-stencil-extrabold {
+	font-family: "Trim Stencil ExtraBold";
+	font-weight: ;
+}
+
+
+/* -- Trim Poster -- */
+
+
+
+@font-face {
+	font-family: "Trim Poster Skinny";
+	 src: url("../wp-content/uploads/TrimPoster-Skinny.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-poster-skinny {
+	font-family: "Trim Poster Skinny";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim Poster Lanky";
+	 src: url("../wp-content/uploads/TrimPoster-Lanky.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-poster-lanky {
+	font-family: "Trim Poster Lanky";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim Poster Slim";
+	 src: url("../wp-content/uploads/TrimPoster-Slim.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-poster-slim {
+	font-family: "Trim Poster Slim";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim Poster Slender";
+	 src: url("../wp-content/uploads/TrimPoster-Slender.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-poster-slender {
+	font-family: "Trim Poster Slender";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim Poster Lean";
+	 src: url("../wp-content/uploads/TrimPoster-Lean.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-poster-lean {
+	font-family: "Trim Poster Lean";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim Poster Average";
+	 src: url("../wp-content/uploads/TrimPoster-Average.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-poster-average {
+	font-family: "Trim Poster Average";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim Poster Hefty";
+	 src: url("../wp-content/uploads/TrimPoster-Hefty.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-poster-hefty {
+	font-family: "Trim Poster Hefty";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim Poster Fat";
+	 src: url("../wp-content/uploads/TrimPoster-Fat.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-poster-fat {
+	font-family: "Trim Poster Fat";
+	font-weight: ;
+}
+
+
+/* -- Trim Mono -- */
+
+
+
+@font-face {
+	font-family: "Trim Mono Light";
+	 src: url("../wp-content/uploads/TrimMono-Light.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-mono-light {
+	font-family: "Trim Mono Light";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim Mono Regular";
+	 src: url("../wp-content/uploads/TrimMono-Regular.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-mono-regular {
+	font-family: "Trim Mono Regular";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim Mono Medium";
+	 src: url("../wp-content/uploads/TrimMono-Medium.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-mono-medium {
+	font-family: "Trim Mono Medium";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim Mono SemiBold";
+	 src: url("../wp-content/uploads/TrimMono-SemiBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-mono-semibold {
+	font-family: "Trim Mono SemiBold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim Mono Bold";
+	 src: url("../wp-content/uploads/TrimMono-Bold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-mono-bold {
+	font-family: "Trim Mono Bold";
+	font-weight: ;
+}
+
+
+/* -- Trim -- */
+
+
+
+@font-face {
+	font-family: "Trim Thin";
+	 src: url("../wp-content/uploads/Trim-Thin.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-thin {
+	font-family: "Trim Thin";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim Thin Italic";
+	 src: url("../wp-content/uploads/Trim-ThinItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-thin-italic {
+	font-family: "Trim Thin Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim Light";
+	 src: url("../wp-content/uploads/Trim-Light.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-light {
+	font-family: "Trim Light";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim Light Italic";
+	 src: url("../wp-content/uploads/Trim-LightItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-light-italic {
+	font-family: "Trim Light Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim Italic";
+	 src: url("../wp-content/uploads/Trim-Italic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-italic {
+	font-family: "Trim Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim Regular";
+	 src: url("../wp-content/uploads/Trim-Regular.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-regular {
+	font-family: "Trim Regular";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim Medium";
+	 src: url("../wp-content/uploads/Trim-Medium.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-medium {
+	font-family: "Trim Medium";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim Medium Italic";
+	 src: url("../wp-content/uploads/Trim-MediumItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-medium-italic {
+	font-family: "Trim Medium Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim SemiBold";
+	 src: url("../wp-content/uploads/Trim-SemiBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-semibold {
+	font-family: "Trim SemiBold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim SemiBold Italic";
+	 src: url("../wp-content/uploads/Trim-SemiBoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-semibold-italic {
+	font-family: "Trim SemiBold Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim Bold";
+	 src: url("../wp-content/uploads/Trim-Bold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-bold {
+	font-family: "Trim Bold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim Bold Italic";
+	 src: url("../wp-content/uploads/Trim-BoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-bold-italic {
+	font-family: "Trim Bold Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim ExtraBold";
+	 src: url("../wp-content/uploads/Trim-ExtraBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-extrabold {
+	font-family: "Trim ExtraBold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Trim ExtraBold Italic";
+	 src: url("../wp-content/uploads/Trim-ExtraBoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.trim-extrabold-italic {
+	font-family: "Trim ExtraBold Italic";
+	font-weight: ;
+}
+
+
+/* -- Siri -- */
+
+
+
+@font-face {
+	font-family: "Siri Thin";
+	 src: url("../wp-content/uploads/Siri-Thin.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.siri-thin {
+	font-family: "Siri Thin";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Siri Thin Italic";
+	 src: url("../wp-content/uploads/Siri-ThinItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.siri-thin-italic {
+	font-family: "Siri Thin Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Siri Light";
+	 src: url("../wp-content/uploads/Siri-Light.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.siri-light {
+	font-family: "Siri Light";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Siri Light Italic";
+	 src: url("../wp-content/uploads/Siri-LightItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.siri-light-italic {
+	font-family: "Siri Light Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Siri Regular";
+	 src: url("../wp-content/uploads/Siri-Regular.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.siri-regular {
+	font-family: "Siri Regular";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Siri Italic";
+	 src: url("../wp-content/uploads/Siri-Italic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.siri-italic {
+	font-family: "Siri Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Siri Medium";
+	 src: url("../wp-content/uploads/Siri-Medium.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.siri-medium {
+	font-family: "Siri Medium";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Siri Medium Italic";
+	 src: url("../wp-content/uploads/Siri-MediumItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.siri-medium-italic {
+	font-family: "Siri Medium Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Siri Bold";
+	 src: url("../wp-content/uploads/Siri-Bold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.siri-bold {
+	font-family: "Siri Bold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Siri Bold Italic";
+	 src: url("../wp-content/uploads/Siri-BoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.siri-bold-italic {
+	font-family: "Siri Bold Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Siri SemiBold";
+	 src: url("../wp-content/uploads/Siri-SemiBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.siri-semibold {
+	font-family: "Siri SemiBold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Siri SemiBold Italic";
+	 src: url("../wp-content/uploads/Siri-SemiBoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.siri-semibold-italic {
+	font-family: "Siri SemiBold Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Siri ExtraBold";
+	 src: url("../wp-content/uploads/Siri-ExtraBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.siri-extrabold {
+	font-family: "Siri ExtraBold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Siri ExtraBold Italic";
+	 src: url("../wp-content/uploads/Siri-ExtraBoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.siri-extrabold-italic {
+	font-family: "Siri ExtraBold Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Siri Black";
+	 src: url("../wp-content/uploads/Siri-Black.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.siri-black {
+	font-family: "Siri Black";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Siri Black Italic";
+	 src: url("../wp-content/uploads/Siri-BlackItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.siri-black-italic {
+	font-family: "Siri Black Italic";
+	font-weight: ;
+}
+
+
+/* -- Mikro -- */
+
+
+
+@font-face {
+	font-family: "Mikro Light";
+	 src: url("../wp-content/uploads/Mikro-Light.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.mikro-light {
+	font-family: "Mikro Light";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Mikro Regular";
+	 src: url("../wp-content/uploads/Mikro-Regular.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.mikro-regular {
+	font-family: "Mikro Regular";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Mikro Medium";
+	 src: url("../wp-content/uploads/Mikro-Medium.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.mikro-medium {
+	font-family: "Mikro Medium";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Mikro Bold";
+	 src: url("../wp-content/uploads/Mikro-Bold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.mikro-bold {
+	font-family: "Mikro Bold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Mikro Black";
+	 src: url("../wp-content/uploads/Mikro-Black.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.mikro-black {
+	font-family: "Mikro Black";
+	font-weight: ;
+}
+
+
+/* -- Line -- */
+
+
+
+@font-face {
+	font-family: "Line Four";
+	 src: url("../wp-content/uploads/Line-4.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.line-four {
+	font-family: "Line Four";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Line Six";
+	 src: url("../wp-content/uploads/Line-6.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.line-six {
+	font-family: "Line Six";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Line Ten";
+	 src: url("../wp-content/uploads/Line-10.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.line-ten {
+	font-family: "Line Ten";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Line Sixteen";
+	 src: url("../wp-content/uploads/Line-16.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.line-sixteen {
+	font-family: "Line Sixteen";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Line Twenty";
+	 src: url("https://lettersfromsweden.se/wp-content/uploads/Line-20.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.line-twenty {
+	font-family: "Line Twenty";
+	font-weight: ;
+}
+
+
+/* -- Lab Grotesque Mono -- */
+
+
+
+@font-face {
+	font-family: "Lab Grotesque Mono Regular";
+	 src: url("../wp-content/uploads/LabGrotesqueMono-Regular.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.lab-grotesque-mono-regular {
+	font-family: "Lab Grotesque Mono Regular";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Lab Grotesque Mono Bold";
+	 src: url("../wp-content/uploads/LabGrotesqueMono-Bold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.lab-grotesque-mono-bold {
+	font-family: "Lab Grotesque Mono Bold";
+	font-weight: ;
+}
+
+
+/* -- Kumla -- */
+
+
+
+@font-face {
+	font-family: "Kumla Regular";
+	 src: url("../wp-content/uploads/Kumla-Regular.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.kumla-regular {
+	font-family: "Kumla Regular";
+	font-weight: ;
+}
+
+
+/* -- Ivar Text -- */
+
+
+
+@font-face {
+	font-family: "Ivar Text Regular";
+	 src: url("https://lettersfromsweden.se/wp-content/uploads/IvarText-Regular.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-text-regular {
+	font-family: "Ivar Text Regular";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Text Italic";
+	 src: url("../wp-content/uploads/IvarText-Italic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-text-italic {
+	font-family: "Ivar Text Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Text Medium";
+	 src: url("https://lettersfromsweden.se/wp-content/uploads/IvarText-Medium.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-text-medium {
+	font-family: "Ivar Text Medium";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Text Medium Italic";
+	 src: url("../wp-content/uploads/IvarText-MediumItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-text-medium-italic {
+	font-family: "Ivar Text Medium Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Text SemiBold";
+	 src: url("../wp-content/uploads/IvarText-SemiBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-text-semibold {
+	font-family: "Ivar Text SemiBold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Text SemiBold Italic";
+	 src: url("../wp-content/uploads/IvarText-SemiBoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-text-semibold-italic {
+	font-family: "Ivar Text SemiBold Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Text Bold";
+	 src: url("../wp-content/uploads/IvarText-Bold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-text-bold {
+	font-family: "Ivar Text Bold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Text Bold Italic";
+	 src: url("../wp-content/uploads/IvarText-BoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-text-bold-italic {
+	font-family: "Ivar Text Bold Italic";
+	font-weight: ;
+}
+
+
+/* -- Ivar Nostalgi -- */
+
+
+
+@font-face {
+	font-family: "Ivar Nostalgi Small";
+	 src: url("../wp-content/uploads/IvarNostalgi-Small.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-nostalgi-small {
+	font-family: "Ivar Nostalgi Small";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Nostalgi Medium";
+	 src: url("../wp-content/uploads/IvarNostalgi-Medium.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-nostalgi-medium {
+	font-family: "Ivar Nostalgi Medium";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Nostalgi Large";
+	 src: url("../wp-content/uploads/IvarNostalgi-Large.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-nostalgi-large {
+	font-family: "Ivar Nostalgi Large";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Nostalgi Stencil";
+	 src: url("../wp-content/uploads/IvarNostalgi-Stencil.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-nostalgi-stencil {
+	font-family: "Ivar Nostalgi Stencil";
+	font-weight: ;
+}
+
+
+/* -- Ivar Headline -- */
+
+
+
+@font-face {
+	font-family: "Ivar Headline Regular";
+	 src: url("../wp-content/uploads/IvarHeadline-Regular.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-headline-regular {
+	font-family: "Ivar Headline Regular";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Headline Italic";
+	 src: url("../wp-content/uploads/IvarHeadline-Italic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-headline-italic {
+	font-family: "Ivar Headline Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Headline Medium";
+	 src: url("../wp-content/uploads/IvarHeadline-Medium.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-headline-medium {
+	font-family: "Ivar Headline Medium";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Headline Medium Italic";
+	 src: url("../wp-content/uploads/IvarHeadline-MediumItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-headline-medium-italic {
+	font-family: "Ivar Headline Medium Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Headline SemiBold";
+	 src: url("https://lettersfromsweden.se/wp-content/uploads/IvarHeadline-SemiBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-headline-semibold {
+	font-family: "Ivar Headline SemiBold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Headline SemiBold Italic";
+	 src: url("../wp-content/uploads/IvarHeadline-SemiBoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-headline-semibold-italic {
+	font-family: "Ivar Headline SemiBold Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Headline Bold";
+	 src: url("https://lettersfromsweden.se/wp-content/uploads/IvarHeadline-Bold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-headline-bold {
+	font-family: "Ivar Headline Bold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Headline Bold Italic";
+	 src: url("../wp-content/uploads/IvarHeadline-BoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-headline-bold-italic {
+	font-family: "Ivar Headline Bold Italic";
+	font-weight: ;
+}
+
+
+/* -- Ivar Display -- */
+
+
+
+@font-face {
+	font-family: "Ivar Display Regular";
+	 src: url("https://lettersfromsweden.se/wp-content/uploads/IvarDisplay-Regular.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-display-regular {
+	font-family: "Ivar Display Regular";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Display Italic";
+	 src: url("../wp-content/uploads/IvarDisplay-Italic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-display-italic {
+	font-family: "Ivar Display Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Display Medium";
+	 src: url("../wp-content/uploads/IvarDisplay-Medium.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-display-medium {
+	font-family: "Ivar Display Medium";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Display Medium Italic";
+	 src: url("../wp-content/uploads/IvarDisplay-MediumItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-display-medium-italic {
+	font-family: "Ivar Display Medium Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Display SemiBold";
+	 src: url("../wp-content/uploads/IvarDisplay-SemiBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-display-semibold {
+	font-family: "Ivar Display SemiBold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Display SemiBold Italic";
+	 src: url("../wp-content/uploads/IvarDisplay-SemiBoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-display-semibold-italic {
+	font-family: "Ivar Display SemiBold Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Display Bold";
+	 src: url("../wp-content/uploads/IvarDisplay-Bold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-display-bold {
+	font-family: "Ivar Display Bold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Ivar Display Bold Italic";
+	 src: url("../wp-content/uploads/IvarDisplay-BoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ivar-display-bold-italic {
+	font-family: "Ivar Display Bold Italic";
+	font-weight: ;
+}
+
+
+/* -- Funkis -- */
+
+
+
+@font-face {
+	font-family: "Funkis Mager";
+	 src: url("../wp-content/uploads/Funkis-Mager.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.funkis-mager {
+	font-family: "Funkis Mager";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Funkis Normal";
+	 src: url("../wp-content/uploads/Funkis-Normal.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.funkis-normal {
+	font-family: "Funkis Normal";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Funkis Medelfet";
+	 src: url("../wp-content/uploads/Funkis-Medelfet.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.funkis-medelfet {
+	font-family: "Funkis Medelfet";
+	font-weight: ;
+}
+
+
+/* -- Ferry -- */
+
+
+
+@font-face {
+	font-family: "Ferry Black";
+	 src: url("../wp-content/uploads/Ferry-Black.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.ferry-black {
+	font-family: "Ferry Black";
+	font-weight: ;
+}
+
+
+/* -- Lab Grotesque -- */
+
+
+
+@font-face {
+	font-family: "Lab Grotesque Thin";
+	 src: url("../wp-content/uploads/LabGrotesque-Thin.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.lab-grotesque-thin {
+	font-family: "Lab Grotesque Thin";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Lab Grotesque Thin Italic";
+	 src: url("../wp-content/uploads/LabGrotesque-ThinItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.lab-grotesque-thin-italic {
+	font-family: "Lab Grotesque Thin Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Lab Grotesque Light";
+	 src: url("../wp-content/uploads/LabGrotesque-Light.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.lab-grotesque-light {
+	font-family: "Lab Grotesque Light";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Lab Grotesque Light Italic";
+	 src: url("../wp-content/uploads/LabGrotesque-LightItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.lab-grotesque-light-italic {
+	font-family: "Lab Grotesque Light Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Lab Grotesque Regular";
+	 src: url("../wp-content/uploads/LabGrotesque-Regular.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.lab-grotesque-regular {
+	font-family: "Lab Grotesque Regular";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Lab Grotesque Italic";
+	 src: url("https://lettersfromsweden.se/wp-content/uploads/LabGrotesque-Italic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.lab-grotesque-italic {
+	font-family: "Lab Grotesque Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Lab Grotesque Medium";
+	 src: url("../wp-content/uploads/LabGrotesque-Medium.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.lab-grotesque-medium {
+	font-family: "Lab Grotesque Medium";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Lab Grotesque Medium Italic";
+	 src: url("../wp-content/uploads/LabGrotesque-MediumItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.lab-grotesque-medium-italic {
+	font-family: "Lab Grotesque Medium Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Lab Grotesque Bold";
+	 src: url("../wp-content/uploads/LabGrotesque-Bold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.lab-grotesque-bold {
+	font-family: "Lab Grotesque Bold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Lab Grotesque Bold Italic";
+	 src: url("../wp-content/uploads/LabGrotesque-BoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.lab-grotesque-bold-italic {
+	font-family: "Lab Grotesque Bold Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Lab Grotesque Black";
+	 src: url("https://lettersfromsweden.se/wp-content/uploads/LabGrotesque-Black.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.lab-grotesque-black {
+	font-family: "Lab Grotesque Black";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Lab Grotesque Black Italic";
+	 src: url("../wp-content/uploads/LabGrotesque-BlackItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.lab-grotesque-black-italic {
+	font-family: "Lab Grotesque Black Italic";
+	font-weight: ;
+}
+
+
+/* -- Eksell Display -- */
+
+
+
+@font-face {
+	font-family: "Eksell Display Small";
+	 src: url("../wp-content/uploads/EksellDisplay-Small.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.eksell-display-small {
+	font-family: "Eksell Display Small";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Eksell Display Medium";
+	 src: url("../wp-content/uploads/EksellDisplay-Medium.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.eksell-display-medium {
+	font-family: "Eksell Display Medium";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Eksell Display Large";
+	 src: url("../wp-content/uploads/EksellDisplay-Large.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.eksell-display-large {
+	font-family: "Eksell Display Large";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Eksell Display Stencil";
+	 src: url("../wp-content/uploads/EksellDisplay-Stencil.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.eksell-display-stencil {
+	font-family: "Eksell Display Stencil";
+	font-weight: ;
+}
+
+
+/* -- Capitaine -- */
+
+
+
+@font-face {
+	font-family: "Capitaine Regular";
+	 src: url("https://lettersfromsweden.se/wp-content/uploads/Capitaine-Regular.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.capitaine-regular {
+	font-family: "Capitaine Regular";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Capitaine Italic";
+	 src: url("../wp-content/uploads/Capitaine-RegularItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.capitaine-italic {
+	font-family: "Capitaine Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Capitaine Medium";
+	 src: url("../wp-content/uploads/Capitaine-Medium.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.capitaine-medium {
+	font-family: "Capitaine Medium";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Capitaine Medium Italic";
+	 src: url("../wp-content/uploads/Capitaine-MediumItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.capitaine-medium-italic {
+	font-family: "Capitaine Medium Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Capitaine SemiBold";
+	 src: url("https://lettersfromsweden.se/wp-content/uploads/Capitaine-SemiBold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.capitaine-semibold {
+	font-family: "Capitaine SemiBold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Capitaine SemiBold Italic";
+	 src: url("../wp-content/uploads/Capitaine-SemiBoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.capitaine-semibold-italic {
+	font-family: "Capitaine SemiBold Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Capitaine Bold";
+	 src: url("https://lettersfromsweden.se/wp-content/uploads/Capitaine-Bold.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.capitaine-bold {
+	font-family: "Capitaine Bold";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Capitaine Bold Italic";
+	 src: url("../wp-content/uploads/Capitaine-BoldItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.capitaine-bold-italic {
+	font-family: "Capitaine Bold Italic";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Capitaine Black";
+	 src: url("../wp-content/uploads/Capitaine-Black.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.capitaine-black {
+	font-family: "Capitaine Black";
+	font-weight: ;
+}
+
+@font-face {
+	font-family: "Capitaine Black Italic";
+	 src: url("https://lettersfromsweden.se/wp-content/uploads/Capitaine-BlackItalic.woff") format("woff");
+		font-weight: ;
+	font-style: normal;
+}
+.capitaine-black-italic {
+	font-family: "Capitaine Black Italic";
+	font-weight: ;
+}
